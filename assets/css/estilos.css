@@ -1,0 +1,75 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  color: #ddd;
+  background-color: black;
+
+}
+
+h1{
+  text-align: center;
+  block-size: auto;
+  font-size: 50px;
+
+}
+.h1 div img{
+  overflow: hidden;
+  width: 20%;
+  position: center;
+}
+
+section{
+  margin: auto;
+  padding: 0;
+  overflow: hidden;
+  margin: 0;
+  
+}
+.uno{
+  overflow: hidden;
+  text-align: justify;
+  margin: 30px 10px 10px;
+  padding: auto;
+  height: auto;
+}
+
+
+section img{
+  width: 20%;
+  float: right;
+  overflow: hidden;
+  padding: auto;
+  margin: 10px;
+
+
+}
+main{
+  background: #1E1A13 0% 0% no-repeat padding-box;
+  color: white;
+  text-align: center;
+  padding-bottom: 150px;
+  margin: 0%;
+  font-weight: 300;
+}
+h2{
+  padding-bottom: 70px;
+  font-size: 50px;
+}
+p{color: white;
+font-size: 20px;}
+
+
+article{
+  display: inline-block;
+  margin-right: 50px;
+  text-align: center;
+}
+article img{
+  display: inline-block;
+  width: 33%;
+}
+footer{
+  background: #1E1A13 0% 0% no-repeat padding-box;
+  text-align: center;
+  font-size: 30px;
+}
